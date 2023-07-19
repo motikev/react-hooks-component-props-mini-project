@@ -1,5 +1,10 @@
 import React from "react";
 import blogData from "../data/blog";
+import Header from "../header";
+import About from "../About";
+import ArticleList from "../ArticleList";
+import Article from "../Article";
+import Minutes from "../Minutes to Read";
 
 console.log(blogData);
 
